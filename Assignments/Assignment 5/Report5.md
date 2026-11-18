@@ -1,9 +1,9 @@
 # Assignment 5 Report – Data Persistence Engineering – Files and Databases
 
-**Student:** P.Yaswanth Choudhary 
-**Register Number:** 192411136
+**Student:** Sure Jaswanth Venkata Rahul
+**Register Number:** 192425048
 **Course Outcome:** CO5  
-**GitHub:** https://github.com/yaswanth-1103/CSA0918-java-Programming.git
+**GitHub:** https://github.com/jaswanths2006/CSA0905-Java-programming.git
 
 ## Aim
 To complete the tasks in the official CO5 assignment PDF and demonstrate java i/o, buffering, serialization and jdbc through design, implementation, testing and evaluation.
