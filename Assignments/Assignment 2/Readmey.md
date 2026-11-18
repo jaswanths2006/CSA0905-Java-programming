@@ -2,8 +2,8 @@
 
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO2  
-**Student:** Sure Jaswanth Venkata Rahul
-**Register Number:** 192425048
+**Student:** P.Yaswanth Choudhary
+**Register Number:** 192411136
 **Local verification environment:** OpenJDK 21
 
 ## Coverage

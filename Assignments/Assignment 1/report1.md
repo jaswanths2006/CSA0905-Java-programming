@@ -1,9 +1,9 @@
 # Assignment 1 Report – Campus Smart-Parking System
 
-**Student:** Sure Jaswanth Venkata Rahul
-**Register Number:** 192425048
+**Student:** P.Yaswanth Choudhary
+**Register Number:** 192411136
 **Course Outcome:** CO1  
-**GitHub:** https://github.com/jaswanths2006/CSA0905-Java-programming.git
+**GitHub:** https://github.com/yaswanth-1103/CSA0918-java-Programming.git
 
 ## Aim
 To complete the tasks in the official CO1 assignment PDF and demonstrate java fundamentals and object-oriented programming through design, implementation, testing and evaluation.
