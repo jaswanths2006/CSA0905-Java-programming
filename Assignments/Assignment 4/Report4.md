@@ -1,9 +1,9 @@
 # Assignment 4 Report – Event-Driven GUI Design
 
-**Student:** P.Yaswanth Choudhary
-**Register Number:** 192411136
+**Student:** Sure Jaswanth Venkata Rahul
+**Register Number:** 192425048
 **Course Outcome:** CO4  
-**GitHub:** https://github.com/yaswanth-1103/CSA0918-java-Programming.git
+**GitHub:** https://github.com/jaswanths2006/CSA0905-Java-programming.git
 
 ## Aim
 To complete the tasks in the official CO4 assignment PDF and demonstrate awt/swing, event delegation, listeners, layouts, dialogs and gui-jdbc integration through design, implementation, testing and evaluation.
